@@ -5,3 +5,4 @@ system "echo 'Hello Murugesh'"
 puts "Hello" + "Marvel" + "!"
 puts "Hello," << "hi!"
 5.times {print "Hello!"}
+puts "Hello, #{ARGV[0]}!"
